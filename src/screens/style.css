@@ -1,0 +1,290 @@
+.tela-inicial {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .tela-inicial .div {
+    background-color: #121212;
+    height: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .tela-inicial .overlap {
+    height: 223px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1408px;
+  }
+  
+  .tela-inicial .logo-sem-fundo-roxo {
+    height: 203px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 272px;
+  }
+  
+  .tela-inicial .text-wrapper {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 60px;
+    font-weight: 700;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+    width: 1385px;
+  }
+  
+  .tela-inicial .boto-menu {
+    height: 58px;
+    left: 1347px;
+    object-fit: cover;
+    position: absolute;
+    top: 25px;
+    width: 61px;
+  }
+  
+  .tela-inicial .overlap-group {
+    background-color: #52187b;
+    border: 3px solid;
+    border-color: #000000;
+    height: 188px;
+    left: -3px;
+    position: absolute;
+    top: 839px;
+    width: 1446px;
+  }
+  
+  .tela-inicial .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 698px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 148px;
+  }
+  
+  .tela-inicial .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 698px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 66px;
+  }
+  
+  .tela-inicial .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 698px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 107px;
+  }
+  
+  .tela-inicial .text-wrapper-5 {
+    color: #121212;
+    font-family: "Nunito", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 698px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .tela-inicial .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 385px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 66px;
+  }
+  
+  .tela-inicial .text-wrapper-7 {
+    color: #121212;
+    font-family: "Nunito", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 385px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .tela-inicial .text-wrapper-8 {
+    color: #121212;
+    font-family: "Nunito", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 105px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .tela-inicial .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 104px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 66px;
+  }
+  
+  .tela-inicial .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 105px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 107px;
+  }
+  
+  .tela-inicial .instagram {
+    height: 75px;
+    left: 1107px;
+    object-fit: cover;
+    position: absolute;
+    top: 54px;
+    width: 75px;
+  }
+  
+  .tela-inicial .facebook {
+    height: 75px;
+    left: 1210px;
+    object-fit: cover;
+    position: absolute;
+    top: 54px;
+    width: 75px;
+  }
+  
+  .tela-inicial .youtube {
+    height: 75px;
+    left: 1313px;
+    object-fit: cover;
+    position: absolute;
+    top: 54px;
+    width: 75px;
+  }
+  
+  .tela-inicial .aqui-a-m-sica-ganha {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 93px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 238px;
+    width: 1254px;
+  }
+  
+  .tela-inicial .div-wrapper {
+    background-color: #52187b;
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 15px;
+    height: 74px;
+    left: 91px;
+    position: absolute;
+    top: 608px;
+    width: 254px;
+  }
+  
+  .tela-inicial .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+  }
+  
+  .tela-inicial .overlap-2 {
+    background-color: #52187b;
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 15px;
+    height: 74px;
+    left: 383px;
+    position: absolute;
+    top: 608px;
+    width: 394px;
+  }
+  
+  .tela-inicial .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+  }
+  
+  .tela-inicial .p {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 843px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 649px;
+    width: 557px;
+  }
+  
+  .tela-inicial .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Nunito", Helvetica;
+    font-size: 45px;
+    font-weight: 700;
+    left: 833px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 527px;
+    width: 568px;
+  }
