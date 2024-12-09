@@ -52,6 +52,7 @@
     position: absolute;
     top: 25px;
     width: 61px;
+    cursor: pointer;
   }
   
   .tela-inicial .overlap-group {
@@ -75,6 +76,7 @@
     line-height: normal;
     position: absolute;
     top: 148px;
+    cursor: pointer;
   }
   
   .tela-inicial .text-wrapper-3 {
@@ -87,6 +89,7 @@
     line-height: normal;
     position: absolute;
     top: 66px;
+    cursor: pointer;
   }
   
   .tela-inicial .text-wrapper-4 {
@@ -99,6 +102,7 @@
     line-height: normal;
     position: absolute;
     top: 107px;
+    cursor: pointer;
   }
   
   .tela-inicial .text-wrapper-5 {
@@ -123,6 +127,7 @@
     line-height: normal;
     position: absolute;
     top: 66px;
+    cursor: pointer;
   }
   
   .tela-inicial .text-wrapper-7 {
@@ -159,6 +164,7 @@
     line-height: normal;
     position: absolute;
     top: 66px;
+    cursor: pointer;
   }
   
   .tela-inicial .text-wrapper-10 {
@@ -171,6 +177,7 @@
     line-height: normal;
     position: absolute;
     top: 107px;
+    cursor: pointer;
   }
   
   .tela-inicial .instagram {
@@ -180,6 +187,7 @@
     position: absolute;
     top: 54px;
     width: 75px;
+    cursor: pointer;
   }
   
   .tela-inicial .facebook {
@@ -189,6 +197,7 @@
     position: absolute;
     top: 54px;
     width: 75px;
+    cursor: pointer;
   }
   
   .tela-inicial .youtube {
@@ -198,6 +207,7 @@
     position: absolute;
     top: 54px;
     width: 75px;
+    cursor: pointer;
   }
   
   .tela-inicial .aqui-a-m-sica-ganha {
@@ -235,6 +245,7 @@
     line-height: normal;
     position: absolute;
     top: 14px;
+    cursor: pointer;
   }
   
   .tela-inicial .overlap-2 {
@@ -259,6 +270,7 @@
     line-height: normal;
     position: absolute;
     top: 14px;
+    cursor: pointer;
   }
   
   .tela-inicial .p {
