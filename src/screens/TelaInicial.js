@@ -1,5 +1,10 @@
 import React from "react";
 import "./style.css";
+import Youtube from "../assets/youtube.png";
+import Instagram from "../assets/instagram.png";
+import Facebook from "../assets/facebook.png";
+import logo from "../assets/logo.png";
+import iconeMenu from "../assets/icone-menu.png";
 
 export const TelaInicial = () => {
   return (
@@ -10,7 +15,7 @@ export const TelaInicial = () => {
             <img
               className="logo-sem-fundo-roxo"
               alt="Logo sem fundo roxo"
-              src="logo.png"
+              src={logo}
             />
 
             <div className="text-wrapper">Bem-vindo ao MusicFeel!</div>
@@ -19,7 +24,7 @@ export const TelaInicial = () => {
           <img
             className="boto-menu"
             alt="Boto menu"
-            src="icone-menu.png"
+            src={iconeMenu}
           />
         </div>
 
@@ -45,19 +50,19 @@ export const TelaInicial = () => {
           <img
             className="instagram"
             alt="Instagram"
-            src="instagram.png"
+            src={Instagram}
           />
 
           <img
             className="facebook"
             alt="Facebook"
-            src="facebook.png"
+            src={Facebook}
           />
 
           <img
             className="youtube"
             alt="Youtube"
-            src="youtube.png"
+            src={Youtube}
           />
         </div>
 
